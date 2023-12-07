@@ -36,6 +36,6 @@ Feel free to connect with me on LinkedIn to stay updated on my latest projects a
 Thank you for reviewing my project, and I look forward to your feedback and suggestions!
 
 
-| ![](/Users/premganesh/Devloveper/Projects/kjbnlabs/welcome_screen.png) | 
+| ![](welcome_screen.png) | 
 | :-------------: |
 |     Welcome     |   
