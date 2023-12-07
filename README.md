@@ -36,6 +36,14 @@ Feel free to connect with me on LinkedIn to stay updated on my latest projects a
 Thank you for reviewing my project, and I look forward to your feedback and suggestions!
 
 
-| ![](demo/welcome_screen.png) | ![](demo/try_again_screen.png) | ![](demo/win_screen.png) | ![](demo/dailog_box_screen.png) | !
+| ![] | ![](demo/try_again_screen.png) | ![](demo/win_screen.png) | ![](demo/dailog_box_screen.png) | !
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | 
 |     Welcome     |    Try Again    |    Win     |     Dailog Box       |    
+
+
+
+**Screens**
+
+| ![](demo/welcome_screen.png) | ![](demo/welcome_screen.png) | ![](demo/welcome_screen.png) | ![](demo/welcome_screen.png) | ![]((demo/welcome_screen.png) |
+| :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
+|     Explore     |    Planner    |    Overlay     |     Videos       |     Leaderboard     |
