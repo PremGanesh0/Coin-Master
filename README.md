@@ -38,6 +38,6 @@ Thank you for reviewing my project, and I look forward to your feedback and sugg
 
 **Screens**
 
-| ![](demo/welcome_screen.png) | ![](demo/try_again_screen.png) | ![](demo/win_screen.png) | ![](demo/win_screen.png) | ![]((demo/welcome_screen.png) |
+| ![](demo/welcome_screen.png) | ![](demo/try_again_screen.png) | ![](demo/win_screen.png) | ![](demo/win_screen.png)  |
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
 |     Welcome      |    Try Again    |    Win     |     DailogBox       |    
